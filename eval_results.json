@@ -1,0 +1,38 @@
+[
+  {
+    "sequence_name": "alex1",
+    "image_path": "output_images/alex1_combined.jpg",
+    "description": "In the image, a person is standing on a rooftop, leaning forward with their hands on the edge of the roof. They appear to be preparing to jump or perform a stunt. The background shows a building with a blue door and some trees. The person's posture suggests they are about to launch themselves off the roof.",
+    "timestamp": "2025-02-07T09:50:28.573090"
+  },
+  {
+    "sequence_name": "alex2",
+    "image_path": "output_images/alex2_combined.jpg",
+    "description": "In the image, a person is performing a skateboard trick on a ledge. The individual is balancing on the skateboard with their arms outstretched for stability. This suggests they might be attempting a \"ollie\" or a similar aerial maneuver, where the skateboarder jumps off the ground while maintaining balance on the board. The setting appears to be an outdoor area, possibly a driveway or a patio, with a house in the background.",
+    "timestamp": "2025-02-07T09:50:30.777935"
+  },
+  {
+    "sequence_name": "alex3",
+    "image_path": "output_images/alex3_combined.jpg",
+    "description": "In the image sequence, a person is riding a skateboard on a concrete surface. The individual appears to be performing a basic skateboarding trick, likely a simple ollie or a similar maneuver. The skateboarder is standing on the board with both feet, and their body is slightly bent forward, indicating they are in control of the board. The background shows a fence and a wall, suggesting an outdoor setting. The bright lighting indicates that it might be daytime.",
+    "timestamp": "2025-02-07T09:50:33.098892"
+  },
+  {
+    "sequence_name": "leo1",
+    "image_path": "output_images/leo1_combined.jpg",
+    "description": "In the image sequence, a skateboarder is riding down a ramp and performing a trick. The skateboarder is in mid-air, executing a jump or a kickflip, as they land smoothly on the ground after the trick. The skateboarder's body is angled towards the ramp, indicating a controlled and precise movement. The background shows a skate park with other ramps and a few people in the distance.",
+    "timestamp": "2025-02-07T09:50:35.246947"
+  },
+  {
+    "sequence_name": "leo2",
+    "image_path": "output_images/leo2_combined.jpg",
+    "description": "The image shows a skateboarder performing a trick in mid-air. The skateboarder is captured in a dynamic pose, with their body slightly bent and arms extended for balance. The skateboard is visible beneath them, indicating that they have just launched off a ramp or ledge. The background appears to be an outdoor skate park with trees and a clear sky. This type of trick could be a kickflip or a similar aerial maneuver, where the skateboarder flips the board under their feet while airborne.",
+    "timestamp": "2025-02-07T09:50:37.885797"
+  },
+  {
+    "sequence_name": "leo3",
+    "image_path": "output_images/leo3_combined.jpg",
+    "description": "In the image sequence, a skateboarder is performing a trick on a parking lot. The skateboarder is riding towards the camera and appears to be jumping or grinding along the yellow lines on the ground. The skateboarder's body is angled forward, indicating a dynamic movement. The background shows a few trees and a fence, suggesting an outdoor setting. The skateboarder seems to be in mid-air, likely executing a trick such as a kickflip or grind.",
+    "timestamp": "2025-02-07T09:50:40.275864"
+  }
+]
