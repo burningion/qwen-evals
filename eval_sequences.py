@@ -35,10 +35,11 @@ class ImageSequenceEvaluator:
         
         sequences = {}
         for file in sorted(input_path.glob("*.jpg")):
-            sequence_name = file.stem.split('_')[0]
-            if sequence_name not in sequences:
-                sequences[sequence_name] = []
-            sequences[sequence_name].append(str(file))
+            # Extract base name by removing trailing numbers
+            base_name = ''.join(c for c in file.stem if not c.isdigit())
+            if base_name not in sequences:
+                sequences[base_name] = []
+            sequences[base_name].append(str(file))
 
         for sequence_name, image_files in sequences.items():
             output_file = output_path / f"{sequence_name}_combined.jpg"
